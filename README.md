@@ -1,4 +1,4 @@
-# Hi there, I'm Sai J K M 🧑‍💻  
+# Hi there, I'm Shaik Jalal Khaja Mohiddin 🧑‍💻  
 ### Passionate CSE Student | Data Science Explorer | Aspiring SDE | Tech-Driven Learner  
 
 ---
