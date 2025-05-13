@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech in Computer Science & Engineering 
 - 🏫 KL University, Vijayawada  
-- 📊 CGPA: 9.61 (as of 2nd year)  
+- 📊 CGPA: 9.53 (as of 3rd year)  
 - 📍 Nandyal District, Andhra Pradesh, India  
 
 ---
