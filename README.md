@@ -32,7 +32,7 @@
 
 
 ## 🎯 Career Goals
-- 💼 Land a good roles in a top **software companies**  
+- 💼 Land a good roles in top **software companies**  
 - 🔍 Become an expert in **Data Science** & **Software Development**  
 - 🌐 Contribute to impactful **open-source projects**  
 
