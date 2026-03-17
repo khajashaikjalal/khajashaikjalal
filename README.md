@@ -6,8 +6,8 @@
 ## 🚀 About Me
 - 🎓 B.Tech in Computer Science & Engineering (Final Year – 4-2, 8th Semester)  
 - 🏫 KL University, Vijayawada  
-- 📊 CGPA: 9.6+  
-- 💡 Strong interest in **Data Structures, Problem Solving & Scalable Systems**  
+- 📊 CGPA: 9.36  
+- 💡 Strong interest in **Data Structures, Web & Mobile App Development, Cloud Computing, Problem Solving & Scalable Systems**  
 - 🎯 Actively preparing for **product-based company roles**
 
 ---
@@ -38,12 +38,13 @@
 - ✅ MongoDB Certified Associate  
 - ✅ Aviatrix Multi-Cloud Network Associate  
 - ✅ GitHub Foundations  
-- ✅ Salesforce AI Associate  
+- ✅ Salesforce AI Associate
+- ✅ Oracle Cloud Infrastructure 2025 Certified Foundations Associate 
 
 ---
 
 ## 🎯 Career Objective
-- 💼 To build a strong professional career in **Data Science, Software Development, Cloud Computing, and Mobile App Development**  
+- 💼 To build a strong professional career in **Data Science, Software Development, Cloud Computing, and Web and Mobile App Development**  
 - 🌐 Continuously contribute to impactful **open-source projects**
 
 ---
@@ -51,7 +52,7 @@
 ## 📬 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/khajashaikjalal)  
 - 💻 [GitHub](https://github.com/khajashaikjalal)  
-- 📧 Email: KhajaShaikhJalal@gmail.com  
+- 📧 Email: 2200039122cser@gmail.com  
 
 ---
 
